@@ -1,10 +1,10 @@
-# wm_dev_scm_git_helpers
+# wm_dev_scm_git__Helpers
 
 Some helper scripts and tips
 
 * Home
 
-https://github.com/wenuam/wm_dev_scm_git_helpers
+https://github.com/wenuam/wm_dev_scm_git__Helpers
 
 ## Scripts
 
